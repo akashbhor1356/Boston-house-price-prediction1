@@ -1,4 +1,3 @@
-from hmac import trans_36
 import pickle
 from tkinter import Scale
 from flask import Flask,request,app,jsonify,url_for,render_template
