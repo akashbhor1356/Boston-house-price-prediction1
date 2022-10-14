@@ -1,7 +1,0 @@
-python==3.9
-Flask
-sklearn
-pandas
-numpy
-matplotlib
-gunicorn
