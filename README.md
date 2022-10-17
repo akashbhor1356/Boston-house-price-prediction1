@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="Images/2.jfif" alt="2.jfif" width="80px" height="80px">
+  <img src="Images/2.jpg" alt="2.jpg" width="80px" height="80px">
 </p>
 <h1 align="center"> Boston-house-price-prediction </h1>
 <p align="center"> 
